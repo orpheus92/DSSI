@@ -4,6 +4,7 @@ dist
 lib
 test
 data
+back
 
 node_modules
 .cache
