@@ -5,6 +5,7 @@ lib
 test
 data
 back
+new_data
 
 node_modules
 .cache
