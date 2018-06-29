@@ -1,4 +1,4 @@
-MANIFEST
+iMANIFEST
 build
 dist
 lib
@@ -6,6 +6,7 @@ test
 data
 back
 new_data
+*.zip
 
 node_modules
 .cache
